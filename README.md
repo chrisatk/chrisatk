@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My Name is Chris Atkinson and I'm a Math & Computing teacher at Sacred Heart High School, Ottawa, Canada.
+My Name is Chris Atkinson and I'm a Math & Computing teacher at <a href="https://shh.ocsb.ca">Sacred Heart High School</a>, Ottawa, Canada.
 
 <h2>✍ Programming Languages</h2>
 <p>
